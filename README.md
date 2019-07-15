@@ -3,3 +3,5 @@ This application is developed in Java using Java swing library.
 
 SQLite is used for database.
 There are two different tables for login and stock.
+
+Login.java is the base page of the application.
